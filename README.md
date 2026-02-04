@@ -6,6 +6,10 @@ The company experienced strong sales growth but inconsistent profitability. Mana
 ## Objective
 To analyze sales, profit, discount, and product performance data in order to identify the root causes of declining profitability and provide actionable business recommendations.
 
+## Dashboard Preview
+<img width="1451" height="816" alt="overview_dashboard" src="https://github.com/user-attachments/assets/52413252-2b95-4b10-958f-45fdd6b5cb49" />
+
+
 ## Dataset
 The analysis was performed using an e-commerce sales dataset containing order-level information such as order date, product category and sub-category, sales, profit, discount, region, and customer segment.
 
